@@ -1,0 +1,109 @@
+4uuu_dimer_nosolvent_SAM-B.pdb
+
+**********************************************
+* Protein-Ligand Interaction Profiler v1.4.5 *
+**********************************************
+
+
+Starting analysis of 4uuu_dimer_nosolvent_SAM-B.pdb
+=====================================================
+PDB structure successfully read.
+Analyzing one ligand...
+
+SAM [SMALLMOLECULE] -- SAM:C:1548
+----------------------------------
+  Contains 2 aromatic ring(s).
+  Binding site atoms in vicinity (7.5 A max. dist: 220).
+  Ligand interacts with 7 binding site residue(s) in chain(s) A/B.
+  Complex uses 9 hydrogen bond(s), 2 pi-stacking(s).
+
+Finished analysis. Find the result files in the working directory.
+
+nocon_00537191_281.pdb
+
+**********************************************
+* Protein-Ligand Interaction Profiler v1.4.5 *
+**********************************************
+
+
+Starting analysis of nocon_00537191_281.pdb
+=============================================
+1424 lines automatically fixed in PDB input file.
+PDB structure successfully read.
+Analyzing one ligand...
+
+UNL [SMALLMOLECULE] -- UNL:C:1
+-------------------------------
+  [32mInfo:  may be biologically irrelevant
+[0m  Contains 2 aromatic ring(s).
+  Binding site atoms in vicinity (7.5 A max. dist: 223).
+  Reduced number of hydrophobic contacts from 17 to 4.
+  Ligand interacts with 4 binding site residue(s) in chain(s) A.
+  Complex uses 2 hydrogen bond(s), 1 pi-stacking(s).
+
+Finished analysis. Find the result files in the working directory.
+
+nocon_00537191_282.pdb
+
+**********************************************
+* Protein-Ligand Interaction Profiler v1.4.5 *
+**********************************************
+
+
+Starting analysis of nocon_00537191_282.pdb
+=============================================
+1424 lines automatically fixed in PDB input file.
+PDB structure successfully read.
+Analyzing one ligand...
+
+UNL [SMALLMOLECULE] -- UNL:C:1
+-------------------------------
+  [32mInfo:  may be biologically irrelevant
+[0m  Contains 2 aromatic ring(s).
+  Binding site atoms in vicinity (7.5 A max. dist: 221).
+  Reduced number of hydrophobic contacts from 17 to 4.
+  Ligand interacts with 3 binding site residue(s) in chain(s) A.
+  Complex uses 1 hydrogen bond(s), 1 pi-stacking(s).
+
+Finished analysis. Find the result files in the working directory.
+
+nocon_00537191_283.pdb
+slurmstepd: error: *** JOB 10239061 ON pg-node168 CANCELLED AT 2020-03-20T19:54:31 ***
+
+
+###############################################################################
+Peregrine Cluster
+Job 10239061 for user 'p275927'
+Finished at: Fri Mar 20 19:54:33 CET 2020
+
+Job details:
+============
+
+Name                : plip
+User                : p275927
+Partition           : regular
+Nodes               : pg-node168
+Cores               : 8
+State               : CANCELLED,CANCELLED by 10275927
+Submit              : 2020-03-20T19:53:35
+Start               : 2020-03-20T19:54:06
+End                 : 2020-03-20T19:54:32
+Reserved walltime   : 01:00:00
+Used walltime       : 00:00:26
+Used CPU time       : 00:00:04 (efficiency:  2.34%)
+% User (Computation): 73.96%
+% System (I/O)      : 26.02%
+Mem reserved        : 4G/node
+Max Mem used        : 0.00  (pg-node168)
+Max Disk Write      : 0.00  (pg-node168)
+Max Disk Read       : 0.00  (pg-node168)
+
+
+Acknowledgements:
+=================
+
+Please see this page for information about acknowledging Peregrine in your publications:
+
+https://wiki.hpc.rug.nl/peregrine/additional_information/scientific_output
+
+################################################################################

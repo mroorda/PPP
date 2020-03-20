@@ -1,0 +1,65 @@
+/home/p275927/PPP/plip/pdbs/
+
+**********************************************
+* Protein-Ligand Interaction Profiler v1.4.5 *
+**********************************************
+
+
+Starting analysis of 
+=======================
+Traceback (most recent call last):
+  File "/home/p275927/software/pliptool/plip/plipcmd.py", line 311, in <module>
+    main_init()
+  File "/home/p275927/software/pliptool/plip/plipcmd.py", line 307, in main_init
+    main(expanded_path, arguments.pdbid)  # Start main script
+  File "/home/p275927/software/pliptool/plip/plipcmd.py", line 162, in main
+    process_pdb(inputstruct, config.OUTPATH, as_string=read_from_stdin, outputprefix=outputprefix)
+  File "/home/p275927/software/pliptool/plip/plipcmd.py", line 63, in process_pdb
+    mol.load_pdb(pdbfile, as_string=as_string)
+  File "/home/p275927/software/pliptool/plip/modules/preparation.py", line 1305, in load_pdb
+    pdbparser = PDBParser(pdbpath, as_string=as_string)  # Parse PDB file to find errors and get additonal data
+  File "/home/p275927/software/pliptool/plip/modules/preparation.py", line 41, in __init__
+    self.proteinmap, self.modres, self.covalent, self.altconformations, self.corrected_pdb = self.parse_pdb()
+  File "/home/p275927/software/pliptool/plip/modules/preparation.py", line 55, in parse_pdb
+    f = read(self.pdbpath)
+  File "/home/p275927/software/pliptool/plip/modules/supplemental.py", line 407, in read
+    return open(fil, 'r')
+IsADirectoryError: [Errno 21] Is a directory: '/home/p275927/PPP/plip/pdbs/'
+
+
+###############################################################################
+Peregrine Cluster
+Job 10231887 for user 'p275927'
+Finished at: Fri Mar 20 11:45:34 UTC 2020
+
+Job details:
+============
+
+Name                : smina_dock
+User                : p275927
+Partition           : vulture
+Nodes               : pg-node230
+Cores               : 8
+State               : COMPLETED
+Submit              : 2020-03-20T11:45:31
+Start               : 2020-03-20T11:45:32
+End                 : 2020-03-20T11:45:34
+Reserved walltime   : 00:02:00
+Used walltime       : 00:00:02
+Used CPU time       : --
+% User (Computation): 73.56%
+% System (I/O)      : 26.32%
+Mem reserved        : 4G/node
+Max Mem used        : 0.00  (pg-node230)
+Max Disk Write      : 0.00  (pg-node230)
+Max Disk Read       : 0.00  (pg-node230)
+
+
+Acknowledgements:
+=================
+
+Please see this page for information about acknowledging Peregrine in your publications:
+
+https://wiki.hpc.rug.nl/peregrine/additional_information/scientific_output
+
+################################################################################

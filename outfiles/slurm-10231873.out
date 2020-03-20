@@ -1,0 +1,53 @@
+
+**********************************************
+* Protein-Ligand Interaction Profiler v1.4.5 *
+**********************************************
+
+Traceback (most recent call last):
+  File "/home/p275927/software/pliptool/plip/plipcmd.py", line 311, in <module>
+    main_init()
+  File "/home/p275927/software/pliptool/plip/plipcmd.py", line 307, in main_init
+    main(expanded_path, arguments.pdbid)  # Start main script
+  File "/home/p275927/software/pliptool/plip/plipcmd.py", line 156, in main
+    if os.path.getsize(inputstruct) == 0:
+  File "/home/p275927/software/anaconda3/lib/python3.7/genericpath.py", line 50, in getsize
+    return os.stat(filename).st_size
+FileNotFoundError: [Errno 2] No such file or directory: '/home/p275927/PPP/plip/pdbs//home/p275927/PPP/plip/pdbs/'
+
+
+###############################################################################
+Peregrine Cluster
+Job 10231873 for user 'p275927'
+Finished at: Fri Mar 20 11:43:52 UTC 2020
+
+Job details:
+============
+
+Name                : smina_dock
+User                : p275927
+Partition           : vulture
+Nodes               : pg-node230
+Cores               : 8
+State               : COMPLETED
+Submit              : 2020-03-20T11:43:14
+Start               : 2020-03-20T11:43:14
+End                 : 2020-03-20T11:43:52
+Reserved walltime   : 00:02:00
+Used walltime       : 00:00:38
+Used CPU time       : 00:00:01 (efficiency:  0.55%)
+% User (Computation): 50.36%
+% System (I/O)      : 49.64%
+Mem reserved        : 4G/node
+Max Mem used        : 22.38M (pg-node230)
+Max Disk Write      : 0.00  (pg-node230)
+Max Disk Read       : 61.44K (pg-node230)
+
+
+Acknowledgements:
+=================
+
+Please see this page for information about acknowledging Peregrine in your publications:
+
+https://wiki.hpc.rug.nl/peregrine/additional_information/scientific_output
+
+################################################################################

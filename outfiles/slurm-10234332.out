@@ -1,0 +1,603 @@
+00537191_281.pdb
+
+**********************************************
+* Protein-Ligand Interaction Profiler v1.4.5 *
+**********************************************
+
+
+Starting analysis of 00537191_281.pdb
+=======================================
+1424 lines automatically fixed in PDB input file.
+PDB structure successfully read.
+Analyzing one ligand...
+
+UNL [SMALLMOLECULE] -- UNL:C:1
+-------------------------------
+  [32mInfo:  may be biologically irrelevant
+[0m  Binding site atoms in vicinity (7.5 A max. dist: 217).
+  Reduced number of hydrophobic contacts from 8 to 4.
+  Ligand interacts with 6 binding site residue(s) in chain(s) A/B.
+  Complex uses 4 hydrogen bond(s).
+
+Finished analysis. Find the result files in the working directory.
+
+00537191_282.pdb
+
+**********************************************
+* Protein-Ligand Interaction Profiler v1.4.5 *
+**********************************************
+
+
+Starting analysis of 00537191_282.pdb
+=======================================
+1424 lines automatically fixed in PDB input file.
+PDB structure successfully read.
+Analyzing one ligand...
+
+UNL [SMALLMOLECULE] -- UNL:C:1
+-------------------------------
+  [32mInfo:  may be biologically irrelevant
+[0m  Binding site atoms in vicinity (7.5 A max. dist: 215).
+  Reduced number of hydrophobic contacts from 9 to 5.
+  Ligand interacts with 5 binding site residue(s) in chain(s) A/B.
+  Complex uses 3 hydrogen bond(s).
+
+Finished analysis. Find the result files in the working directory.
+
+00537191_283.pdb
+
+**********************************************
+* Protein-Ligand Interaction Profiler v1.4.5 *
+**********************************************
+
+
+Starting analysis of 00537191_283.pdb
+=======================================
+1424 lines automatically fixed in PDB input file.
+PDB structure successfully read.
+Analyzing one ligand...
+
+UNL [SMALLMOLECULE] -- UNL:C:1
+-------------------------------
+  [32mInfo:  may be biologically irrelevant
+[0m  Binding site atoms in vicinity (7.5 A max. dist: 204).
+  Reduced number of hydrophobic contacts from 17 to 8.
+  Ligand interacts with 6 binding site residue(s) in chain(s) A.
+  Complex uses 1 salt bridge(s), 5 hydrogen bond(s).
+
+Finished analysis. Find the result files in the working directory.
+
+00537191_284.pdb
+
+**********************************************
+* Protein-Ligand Interaction Profiler v1.4.5 *
+**********************************************
+
+
+Starting analysis of 00537191_284.pdb
+=======================================
+1424 lines automatically fixed in PDB input file.
+PDB structure successfully read.
+Analyzing one ligand...
+
+UNL [SMALLMOLECULE] -- UNL:C:1
+-------------------------------
+  [32mInfo:  may be biologically irrelevant
+[0m  Binding site atoms in vicinity (7.5 A max. dist: 207).
+  Reduced number of hydrophobic contacts from 16 to 7.
+  Ligand interacts with 6 binding site residue(s) in chain(s) A/B.
+  Complex uses 1 salt bridge(s), 2 hydrogen bond(s).
+
+Finished analysis. Find the result files in the working directory.
+
+01205672_224.pdb
+
+**********************************************
+* Protein-Ligand Interaction Profiler v1.4.5 *
+**********************************************
+
+
+Starting analysis of 01205672_224.pdb
+=======================================
+1427 lines automatically fixed in PDB input file.
+PDB structure successfully read.
+Analyzing one ligand...
+
+UNL [SMALLMOLECULE] -- UNL:C:1
+-------------------------------
+  [32mInfo:  may be biologically irrelevant
+[0m  Contains 1 aromatic ring(s).
+  Binding site atoms in vicinity (7.5 A max. dist: 195).
+  Reduced number of hydrophobic contacts from 15 to 6.
+  Ligand interacts with 5 binding site residue(s) in chain(s) A.
+  Complex uses 3 hydrogen bond(s).
+
+Finished analysis. Find the result files in the working directory.
+
+01205672_225.pdb
+
+**********************************************
+* Protein-Ligand Interaction Profiler v1.4.5 *
+**********************************************
+
+
+Starting analysis of 01205672_225.pdb
+=======================================
+1427 lines automatically fixed in PDB input file.
+PDB structure successfully read.
+Analyzing one ligand...
+
+UNL [SMALLMOLECULE] -- UNL:C:1
+-------------------------------
+  [32mInfo:  may be biologically irrelevant
+[0m  Contains 1 aromatic ring(s).
+  Binding site atoms in vicinity (7.5 A max. dist: 208).
+  Reduced number of hydrophobic contacts from 10 to 4.
+  Ligand interacts with 6 binding site residue(s) in chain(s) A/B.
+  Complex uses 3 hydrogen bond(s).
+
+Finished analysis. Find the result files in the working directory.
+
+01205672_226.pdb
+
+**********************************************
+* Protein-Ligand Interaction Profiler v1.4.5 *
+**********************************************
+
+
+Starting analysis of 01205672_226.pdb
+=======================================
+1427 lines automatically fixed in PDB input file.
+PDB structure successfully read.
+Analyzing one ligand...
+
+UNL [SMALLMOLECULE] -- UNL:C:1
+-------------------------------
+  [32mInfo:  may be biologically irrelevant
+[0m  Contains 1 aromatic ring(s).
+  Binding site atoms in vicinity (7.5 A max. dist: 181).
+  Reduced number of hydrophobic contacts from 12 to 7.
+  Ligand interacts with 5 binding site residue(s) in chain(s) A.
+  Complex uses 3 hydrogen bond(s), 1 pi-stacking(s).
+
+Finished analysis. Find the result files in the working directory.
+
+01205672_227.pdb
+
+**********************************************
+* Protein-Ligand Interaction Profiler v1.4.5 *
+**********************************************
+
+
+Starting analysis of 01205672_227.pdb
+=======================================
+1427 lines automatically fixed in PDB input file.
+PDB structure successfully read.
+Analyzing one ligand...
+
+UNL [SMALLMOLECULE] -- UNL:C:1
+-------------------------------
+  [32mInfo:  may be biologically irrelevant
+[0m  Binding site atoms in vicinity (7.5 A max. dist: 198).
+  Reduced number of hydrophobic contacts from 13 to 3.
+  Ligand interacts with 6 binding site residue(s) in chain(s) A/B.
+  Complex uses 6 hydrogen bond(s).
+
+Finished analysis. Find the result files in the working directory.
+
+03428204_366.pdb
+
+**********************************************
+* Protein-Ligand Interaction Profiler v1.4.5 *
+**********************************************
+
+
+Starting analysis of 03428204_366.pdb
+=======================================
+1427 lines automatically fixed in PDB input file.
+PDB structure successfully read.
+Analyzing one ligand...
+
+UNL [SMALLMOLECULE] -- UNL:C:1
+-------------------------------
+  [32mInfo:  may be biologically irrelevant
+[0m  Binding site atoms in vicinity (7.5 A max. dist: 203).
+  Reduced number of hydrophobic contacts from 10 to 6.
+  Ligand interacts with 4 binding site residue(s) in chain(s) A/B.
+  Complex uses 2 hydrogen bond(s).
+
+Finished analysis. Find the result files in the working directory.
+
+03428204_368.pdb
+
+**********************************************
+* Protein-Ligand Interaction Profiler v1.4.5 *
+**********************************************
+
+
+Starting analysis of 03428204_368.pdb
+=======================================
+1427 lines automatically fixed in PDB input file.
+PDB structure successfully read.
+Analyzing one ligand...
+
+UNL [SMALLMOLECULE] -- UNL:C:1
+-------------------------------
+  [32mInfo:  may be biologically irrelevant
+[0m  Binding site atoms in vicinity (7.5 A max. dist: 207).
+  Reduced number of hydrophobic contacts from 10 to 6.
+  Ligand interacts with 6 binding site residue(s) in chain(s) A/B.
+  Complex uses 4 hydrogen bond(s).
+
+Finished analysis. Find the result files in the working directory.
+
+03428204_369.pdb
+
+**********************************************
+* Protein-Ligand Interaction Profiler v1.4.5 *
+**********************************************
+
+
+Starting analysis of 03428204_369.pdb
+=======================================
+1427 lines automatically fixed in PDB input file.
+PDB structure successfully read.
+Analyzing one ligand...
+
+UNL [SMALLMOLECULE] -- UNL:C:1
+-------------------------------
+  [32mInfo:  may be biologically irrelevant
+[0m  Binding site atoms in vicinity (7.5 A max. dist: 200).
+  Reduced number of hydrophobic contacts from 15 to 5.
+  Ligand interacts with 4 binding site residue(s) in chain(s) A/B.
+  Complex uses 1 hydrogen bond(s).
+
+Finished analysis. Find the result files in the working directory.
+
+03428204_370.pdb
+
+**********************************************
+* Protein-Ligand Interaction Profiler v1.4.5 *
+**********************************************
+
+
+Starting analysis of 03428204_370.pdb
+=======================================
+1427 lines automatically fixed in PDB input file.
+PDB structure successfully read.
+Analyzing one ligand...
+
+UNL [SMALLMOLECULE] -- UNL:C:1
+-------------------------------
+  [32mInfo:  may be biologically irrelevant
+[0m  Binding site atoms in vicinity (7.5 A max. dist: 200).
+  Reduced number of hydrophobic contacts from 5 to 3.
+  Ligand interacts with 3 binding site residue(s) in chain(s) A.
+  Complex uses 2 hydrogen bond(s).
+
+Finished analysis. Find the result files in the working directory.
+
+05910066_272.pdb
+
+**********************************************
+* Protein-Ligand Interaction Profiler v1.4.5 *
+**********************************************
+
+
+Starting analysis of 05910066_272.pdb
+=======================================
+1427 lines automatically fixed in PDB input file.
+PDB structure successfully read.
+Analyzing one ligand...
+
+UNL [SMALLMOLECULE] -- UNL:C:1
+-------------------------------
+  [32mInfo:  may be biologically irrelevant
+[0m  Binding site atoms in vicinity (7.5 A max. dist: 207).
+  Reduced number of hydrophobic contacts from 8 to 5.
+  Ligand interacts with 5 binding site residue(s) in chain(s) A.
+  Complex uses 3 hydrogen bond(s).
+
+Finished analysis. Find the result files in the working directory.
+
+05910066_273.pdb
+
+**********************************************
+* Protein-Ligand Interaction Profiler v1.4.5 *
+**********************************************
+
+
+Starting analysis of 05910066_273.pdb
+=======================================
+1427 lines automatically fixed in PDB input file.
+PDB structure successfully read.
+Analyzing one ligand...
+
+UNL [SMALLMOLECULE] -- UNL:C:1
+-------------------------------
+  [32mInfo:  may be biologically irrelevant
+[0m  Binding site atoms in vicinity (7.5 A max. dist: 195).
+  Reduced number of hydrophobic contacts from 16 to 3.
+  Ligand interacts with 6 binding site residue(s) in chain(s) A/B.
+  Complex uses 3 hydrogen bond(s).
+
+Finished analysis. Find the result files in the working directory.
+
+05910066_274.pdb
+
+**********************************************
+* Protein-Ligand Interaction Profiler v1.4.5 *
+**********************************************
+
+
+Starting analysis of 05910066_274.pdb
+=======================================
+1427 lines automatically fixed in PDB input file.
+PDB structure successfully read.
+Analyzing one ligand...
+
+UNL [SMALLMOLECULE] -- UNL:C:1
+-------------------------------
+  [32mInfo:  may be biologically irrelevant
+[0m  Binding site atoms in vicinity (7.5 A max. dist: 208).
+  Reduced number of hydrophobic contacts from 9 to 3.
+  Ligand interacts with 4 binding site residue(s) in chain(s) A.
+  Complex uses 2 hydrogen bond(s).
+
+Finished analysis. Find the result files in the working directory.
+
+05910066_275.pdb
+
+**********************************************
+* Protein-Ligand Interaction Profiler v1.4.5 *
+**********************************************
+
+
+Starting analysis of 05910066_275.pdb
+=======================================
+1427 lines automatically fixed in PDB input file.
+PDB structure successfully read.
+Analyzing one ligand...
+
+UNL [SMALLMOLECULE] -- UNL:C:1
+-------------------------------
+  [32mInfo:  may be biologically irrelevant
+[0m  Binding site atoms in vicinity (7.5 A max. dist: 219).
+  Reduced number of hydrophobic contacts from 18 to 4.
+  Ligand interacts with 5 binding site residue(s) in chain(s) A/B.
+  Complex uses 3 hydrogen bond(s).
+
+Finished analysis. Find the result files in the working directory.
+
+06433932_336.pdb
+
+**********************************************
+* Protein-Ligand Interaction Profiler v1.4.5 *
+**********************************************
+
+
+Starting analysis of 06433932_336.pdb
+=======================================
+1426 lines automatically fixed in PDB input file.
+PDB structure successfully read.
+Analyzing one ligand...
+
+UNL [SMALLMOLECULE] -- UNL:C:1
+-------------------------------
+  [32mInfo:  may be biologically irrelevant
+[0m  Contains 1 aromatic ring(s).
+  Binding site atoms in vicinity (7.5 A max. dist: 221).
+  Reduced number of hydrophobic contacts from 31 to 6.
+  Ligand interacts with 5 binding site residue(s) in chain(s) A.
+  Complex uses 4 hydrogen bond(s), 1 pi-stacking(s).
+
+Finished analysis. Find the result files in the working directory.
+
+06433932_337.pdb
+
+**********************************************
+* Protein-Ligand Interaction Profiler v1.4.5 *
+**********************************************
+
+
+Starting analysis of 06433932_337.pdb
+=======================================
+1426 lines automatically fixed in PDB input file.
+PDB structure successfully read.
+Analyzing one ligand...
+
+UNL [SMALLMOLECULE] -- UNL:C:1
+-------------------------------
+  [32mInfo:  may be biologically irrelevant
+[0m  Contains 1 aromatic ring(s).
+  Binding site atoms in vicinity (7.5 A max. dist: 205).
+  Reduced number of hydrophobic contacts from 31 to 8.
+  Ligand interacts with 7 binding site residue(s) in chain(s) A/B.
+  Complex uses 3 hydrogen bond(s), 1 pi-stacking(s).
+
+Finished analysis. Find the result files in the working directory.
+
+06433932_338.pdb
+
+**********************************************
+* Protein-Ligand Interaction Profiler v1.4.5 *
+**********************************************
+
+
+Starting analysis of 06433932_338.pdb
+=======================================
+1426 lines automatically fixed in PDB input file.
+PDB structure successfully read.
+Analyzing one ligand...
+
+UNL [SMALLMOLECULE] -- UNL:C:1
+-------------------------------
+  [32mInfo:  may be biologically irrelevant
+[0m  Contains 1 aromatic ring(s).
+  Binding site atoms in vicinity (7.5 A max. dist: 216).
+  Reduced number of hydrophobic contacts from 21 to 7.
+  Ligand interacts with 5 binding site residue(s) in chain(s) A/B.
+  Complex uses 2 hydrogen bond(s).
+
+Finished analysis. Find the result files in the working directory.
+
+06433932_339.pdb
+
+**********************************************
+* Protein-Ligand Interaction Profiler v1.4.5 *
+**********************************************
+
+
+Starting analysis of 06433932_339.pdb
+=======================================
+1426 lines automatically fixed in PDB input file.
+PDB structure successfully read.
+Analyzing one ligand...
+
+UNL [SMALLMOLECULE] -- UNL:C:1
+-------------------------------
+  [32mInfo:  may be biologically irrelevant
+[0m  Contains 1 aromatic ring(s).
+  Binding site atoms in vicinity (7.5 A max. dist: 202).
+  Reduced number of hydrophobic contacts from 29 to 8.
+  Ligand interacts with 6 binding site residue(s) in chain(s) A/B.
+  Complex uses 1 pi-stacking(s).
+
+Finished analysis. Find the result files in the working directory.
+
+06797245_41.pdb
+
+**********************************************
+* Protein-Ligand Interaction Profiler v1.4.5 *
+**********************************************
+
+
+Starting analysis of 06797245_41.pdb
+======================================
+1427 lines automatically fixed in PDB input file.
+PDB structure successfully read.
+Analyzing one ligand...
+
+UNL [SMALLMOLECULE] -- UNL:C:1
+-------------------------------
+  [32mInfo:  may be biologically irrelevant
+[0m  Contains 1 aromatic ring(s).
+  Binding site atoms in vicinity (7.5 A max. dist: 199).
+  Reduced number of hydrophobic contacts from 14 to 5.
+  Ligand interacts with 6 binding site residue(s) in chain(s) A.
+  Complex uses 1 salt bridge(s), 5 hydrogen bond(s), 1 pi-stacking(s).
+
+Finished analysis. Find the result files in the working directory.
+
+06797245_42.pdb
+
+**********************************************
+* Protein-Ligand Interaction Profiler v1.4.5 *
+**********************************************
+
+
+Starting analysis of 06797245_42.pdb
+======================================
+1427 lines automatically fixed in PDB input file.
+PDB structure successfully read.
+Analyzing one ligand...
+
+UNL [SMALLMOLECULE] -- UNL:C:1
+-------------------------------
+  [32mInfo:  may be biologically irrelevant
+[0m  Contains 1 aromatic ring(s).
+  Binding site atoms in vicinity (7.5 A max. dist: 206).
+  Reduced number of hydrophobic contacts from 17 to 6.
+  Ligand interacts with 6 binding site residue(s) in chain(s) A/B.
+  Complex uses 2 salt bridge(s), 3 hydrogen bond(s), 1 pi-stacking(s).
+
+Finished analysis. Find the result files in the working directory.
+
+06797245_43.pdb
+
+**********************************************
+* Protein-Ligand Interaction Profiler v1.4.5 *
+**********************************************
+
+
+Starting analysis of 06797245_43.pdb
+======================================
+1427 lines automatically fixed in PDB input file.
+PDB structure successfully read.
+Analyzing one ligand...
+
+UNL [SMALLMOLECULE] -- UNL:C:1
+-------------------------------
+  [32mInfo:  may be biologically irrelevant
+[0m  Contains 1 aromatic ring(s).
+  Binding site atoms in vicinity (7.5 A max. dist: 217).
+  Reduced number of hydrophobic contacts from 12 to 3.
+  Ligand interacts with 6 binding site residue(s) in chain(s) A/B.
+  Complex uses 3 salt bridge(s), 5 hydrogen bond(s).
+
+Finished analysis. Find the result files in the working directory.
+
+06797245_45.pdb
+
+**********************************************
+* Protein-Ligand Interaction Profiler v1.4.5 *
+**********************************************
+
+
+Starting analysis of 06797245_45.pdb
+======================================
+1427 lines automatically fixed in PDB input file.
+PDB structure successfully read.
+Analyzing one ligand...
+
+UNL [SMALLMOLECULE] -- UNL:C:1
+-------------------------------
+  [32mInfo:  may be biologically irrelevant
+[0m  Contains 1 aromatic ring(s).
+  Binding site atoms in vicinity (7.5 A max. dist: 206).
+  Reduced number of hydrophobic contacts from 8 to 3.
+  Ligand interacts with 4 binding site residue(s) in chain(s) A/B.
+  Complex uses 2 hydrogen bond(s).
+
+Finished analysis. Find the result files in the working directory.
+
+07420602_170.pdb
+slurmstepd: error: *** JOB 10234332 ON pg-node230 CANCELLED AT 2020-03-20T15:09:59 DUE TO TIME LIMIT ***
+
+
+###############################################################################
+Peregrine Cluster
+Job 10234332 for user 'p275927'
+Finished at: Fri Mar 20 15:10:01 UTC 2020
+
+Job details:
+============
+
+Name                : plip
+User                : p275927
+Partition           : vulture
+Nodes               : pg-node230
+Cores               : 8
+State               : CANCELLED,TIMEOUT
+Submit              : 2020-03-20T15:07:53
+Start               : 2020-03-20T15:07:53
+End                 : 2020-03-20T15:10:00
+Reserved walltime   : 00:02:00
+Used walltime       : 00:02:07
+Used CPU time       : 00:00:57 (efficiency:  5.65%)
+% User (Computation): 85.53%
+% System (I/O)      : 14.47%
+Mem reserved        : 4G/node
+Max Mem used        : 37.42M (pg-node230)
+Max Disk Write      : 43.25M (pg-node230)
+Max Disk Read       : 136.19M (pg-node230)
+
+
+Acknowledgements:
+=================
+
+Please see this page for information about acknowledging Peregrine in your publications:
+
+https://wiki.hpc.rug.nl/peregrine/additional_information/scientific_output
+
+################################################################################

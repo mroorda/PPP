@@ -1,0 +1,126 @@
+
+gzip: DCAAMO.xab.sdf.gz: unexpected end of file
+
+gzip: DCAARN.xab.sdf.gz: unexpected end of file
+
+gzip: DCAARN.xac.sdf.gz: unexpected end of file
+
+gzip: DCAARN.xad.sdf.gz: unexpected end of file
+
+gzip: DCAARN.xae.sdf.gz: unexpected end of file
+
+gzip: DCAARO.xab.sdf.gz: unexpected end of file
+
+gzip: EEAARN.xab.sdf.gz: unexpected end of file
+
+gzip: EGAARN.xab.sdf.gz: unexpected end of file
+
+gzip: EGBAMP.xaa.sdf.gz: unexpected end of file
+
+gzip: FCAAMN.xaa.sdf.gz: unexpected end of file
+
+gzip: FCAAMO.xaa.sdf.gz: unexpected end of file
+
+gzip: FCAAMP.xaa.sdf.gz: unexpected end of file
+
+gzip: FCAARO.xaa.sdf.gz: unexpected end of file
+
+gzip: FCAARP.xaa.sdf.gz: unexpected end of file
+
+gzip: FCABMN.xaa.sdf.gz: unexpected end of file
+
+gzip: FCABMO.xaa.sdf.gz: unexpected end of file
+
+gzip: FCABMP.xaa.sdf.gz: unexpected end of file
+
+gzip: FCABRN.xaa.sdf.gz: unexpected end of file
+
+gzip: FCABRO.xaa.sdf.gz: unexpected end of file
+
+gzip: FCABRP.xaa.sdf.gz: unexpected end of file
+
+gzip: FCCAMN.xaa.sdf.gz: unexpected end of file
+
+gzip: FCCAMO.xaa.sdf.gz: unexpected end of file
+
+gzip: FCCAMP.xaa.sdf.gz: unexpected end of file
+
+gzip: FCCARN.xaa.sdf.gz: unexpected end of file
+
+gzip: FCCARO.xaa.sdf.gz: unexpected end of file
+
+gzip: FCCBMN.xaa.sdf.gz: unexpected end of file
+
+gzip: FCCBMO.xaa.sdf.gz: unexpected end of file
+
+gzip: FCCBMP.xaa.sdf.gz: unexpected end of file
+
+gzip: FCCBRN.xaa.sdf.gz: unexpected end of file
+
+gzip: FCCBRO.xaa.sdf.gz: unexpected end of file
+
+gzip: FCCBRP.xaa.sdf.gz: unexpected end of file
+
+gzip: FCEAMN.xaa.sdf.gz: unexpected end of file
+
+gzip: FCEAMO.xaa.sdf.gz: unexpected end of file
+
+gzip: FCEAMP.xaa.sdf.gz: unexpected end of file
+
+gzip: FCEARN.xaa.sdf.gz: unexpected end of file
+
+gzip: FCEARO.xaa.sdf.gz: unexpected end of file
+
+gzip: FCEARP.xaa.sdf.gz: unexpected end of file
+
+gzip: FCEBMN.xaa.sdf.gz: unexpected end of file
+
+gzip: FCEBMO.xaa.sdf.gz: unexpected end of file
+
+gzip: FCEBRN.xaa.sdf.gz: unexpected end of file
+
+gzip: FCEBRO.xaa.sdf.gz: unexpected end of file
+
+gzip: FCEBRP.xaa.sdf.gz: unexpected end of file
+
+gzip: GGAARN.xab.sdf.gz: unexpected end of file
+
+gzip: GGBAMP.xaa.sdf.gz: unexpected end of file
+
+
+###############################################################################
+Peregrine Cluster
+Job 10253607 for user 'p275927'
+Finished at: Sat Mar 21 16:13:37 UTC 2020
+
+Job details:
+============
+
+Name                : zinc_gunzip
+User                : p275927
+Partition           : vulture
+Nodes               : pg-node232
+Cores               : 16
+State               : COMPLETED
+Submit              : 2020-03-21T16:03:40
+Start               : 2020-03-21T16:04:29
+End                 : 2020-03-21T16:13:37
+Reserved walltime   : 01:00:00
+Used walltime       : 00:09:08
+Used CPU time       : 00:05:32 (efficiency:  3.79%)
+% User (Computation): 75.08%
+% System (I/O)      : 24.92%
+Mem reserved        : 4G/node
+Max Mem used        : 956.00K (pg-node232)
+Max Disk Write      : 39.46G (pg-node232)
+Max Disk Read       : 5.76G (pg-node232)
+
+
+Acknowledgements:
+=================
+
+Please see this page for information about acknowledging Peregrine in your publications:
+
+https://wiki.hpc.rug.nl/peregrine/additional_information/scientific_output
+
+################################################################################

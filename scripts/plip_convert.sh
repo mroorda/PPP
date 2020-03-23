@@ -1,15 +1,16 @@
 #!/bin/bash
 
 # define vars
-SDFS="/home/p275927/PPP/plip/USR-VS/"
-PDBS="/home/p275927/PPP/plip/pdbs/"
+SDFS="/data/p275927/USR-VS/ligand_sdf/"
+PDBS="/data/p275927/USR-VS/ligand_pdb/"
+INFILE="/data/p275927/USR-VS/docked/hits-USRCAT.sdf"
 
 # change working directory
 cd $SDFS
 
 # expand batch ligand sdf to individual sdf
-echo "expanding sdf files"
-babel hits-USR.sdf -O hits-USR_compound.sdf -m
+echo "unpacking sdf files"
+babel $INFILE -O hits-USR_compound.sdf -m
 
 # rename sdf files to their corresponding ZINC IDs
 N=1
@@ -23,12 +24,12 @@ done
 # convert ligand sdf to pdb
 babel *.sdf -O .pdb -m
 
-# move pdb files to dedicated folder
-mv *.pdb $PDBS
-
 # execute python script that merges ligand and receptor pdbs
 echo "executing python script"
-python /home/p275927/PPP/plip/scripts/pdb_pymol_merge.py
+pymol -c /home/p275927/PPP/scripts/merge_pdb_pymol.py
+
+# cleanup ligand only pdb files which are no longer necessary
+rm -rf *.pdb
 
 # change working directory
 cd $PDBS

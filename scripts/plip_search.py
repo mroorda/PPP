@@ -2,12 +2,9 @@ import os
 import re
 import csv
 
-### what this script should do:
-# iterate over files in folder (load/open)
-# iterate over lines in files
-# check each line for presence of two specific contacts
-# if present, give score per each
-# write name of molecule and score to csv output file
+# this script searches the xml file output by plip for specific contacts
+# scores are assigned per contact and output to csv
+# to do:
 # move pymol session files of scored molecules to dedicated folder
 
 # define dictionary for searched contacts
@@ -34,9 +31,9 @@ contacts = { "pi_stack" : """<pi_stack id=".">
 
 # set up file locations
 # input directory
-xml_dir = "/data/p275927/USR-VS/contacts/"
+xml_dir = "/data/p275927/USR-VS/contacts/USRCAT/"
 # output file
-out_file = open("plip_contacts.csv", "w")
+out_file = open("/data/p275927/USR-VS/plip_contacts_USRCAT.csv", "w")
 header = ['pi_stack', 'salt_bridge_A', 'salt_bridge_B', 'h_bond_A', 'h_bond_B',
           'ZINC_ID', 'pose']
 writer = csv.DictWriter(out_file, fieldnames = header)
@@ -70,6 +67,7 @@ for filename in os.listdir(xml_dir):
             # add compound identifiers to score dictionary
             score['ZINC_ID'] = ID
             score['pose'] = pose
+            # score['mean'] = sum(score.values())/len(score.values())
             print(score)
             # append compound ID and scores to csv file
             writer.writerow(score)

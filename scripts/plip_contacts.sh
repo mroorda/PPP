@@ -6,8 +6,8 @@
 #SBATCH --cpus-per-task=8
 #SBATCH --mem=4GB
 
-INPUT="/data/p275927/USR-VS/ligand_pdb/"
-OUTPUT="/data/p275927/USR-VS/contacts/"
+INPUT="/data/p275927/USR-VS/ligand_pdb/USRCAT/"
+OUTPUT="/data/p275927/USR-VS/contacts/USRCAT/"
 
 cd $OUTPUT
 

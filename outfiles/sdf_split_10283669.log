@@ -1,0 +1,39 @@
+<_io.TextIOWrapper name='/data/p275927/ZINC15/database/ZINC15_9093.sdf' mode='w' encoding='UTF-8'>
+
+
+###############################################################################
+Peregrine Cluster
+Job 10283669 for user 'p275927'
+Finished at: Mon Mar 23 10:28:53 CET 2020
+
+Job details:
+============
+
+Name                : sdf_split
+User                : p275927
+Partition           : short
+Nodes               : pg-node004
+Cores               : 8
+State               : COMPLETED
+Submit              : 2020-03-23T10:19:39
+Start               : 2020-03-23T10:19:48
+End                 : 2020-03-23T10:28:53
+Reserved walltime   : 00:30:00
+Used walltime       : 00:09:05
+Used CPU time       : 00:08:17 (efficiency: 11.40%)
+% User (Computation): 84.76%
+% System (I/O)      : 15.24%
+Mem reserved        : 4G/node
+Max Mem used        : 7.68M (pg-node004)
+Max Disk Write      : 0.00  (pg-node004)
+Max Disk Read       : 51.20K (pg-node004)
+
+
+Acknowledgements:
+=================
+
+Please see this page for information about acknowledging Peregrine in your publications:
+
+https://wiki.hpc.rug.nl/peregrine/additional_information/scientific_output
+
+################################################################################

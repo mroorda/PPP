@@ -1,0 +1,39 @@
+python: can't open file 'split_sdf.py': [Errno 2] No such file or directory
+
+
+###############################################################################
+Peregrine Cluster
+Job 10283641 for user 'p275927'
+Finished at: Mon Mar 23 10:14:19 CET 2020
+
+Job details:
+============
+
+Name                : sdf_split
+User                : p275927
+Partition           : short
+Nodes               : pg-node006
+Cores               : 8
+State               : FAILED
+Submit              : 2020-03-23T10:13:58
+Start               : 2020-03-23T10:14:16
+End                 : 2020-03-23T10:14:18
+Reserved walltime   : 00:30:00
+Used walltime       : 00:00:02
+Used CPU time       : --
+% User (Computation): 50.94%
+% System (I/O)      : 48.11%
+Mem reserved        : 4G/node
+Max Mem used        : 0.00  (pg-node006)
+Max Disk Write      : 0.00  (pg-node006)
+Max Disk Read       : 0.00  (pg-node006)
+
+
+Acknowledgements:
+=================
+
+Please see this page for information about acknowledging Peregrine in your publications:
+
+https://wiki.hpc.rug.nl/peregrine/additional_information/scientific_output
+
+################################################################################

@@ -1,5 +1,5 @@
 database = "/data/p275927/ZINC15/database/ZINC15"
-nmol = 9218 # number of molecules in each file
+nmol = 1000 # number of molecules in each file
 step = nmol # setup step variable
 
 # counter for number of molecules

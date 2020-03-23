@@ -1,0 +1,39 @@
+123
+
+
+###############################################################################
+Peregrine Cluster
+Job 10283872 for user 'p275927'
+Finished at: Mon Mar 23 10:07:40 UTC 2020
+
+Job details:
+============
+
+Name                : allocation
+User                : p275927
+Partition           : 
+Nodes               : pg-node233
+Cores               : 8
+State               : COMPLETED
+Submit              : 2020-03-23T10:07:39
+Start               : 2020-03-23T10:07:40
+End                 : 2020-03-23T10:07:40
+Reserved walltime   : --
+Used walltime       : --
+Used CPU time       : --
+% User (Computation): 36.84%
+% System (I/O)      : 63.16%
+Mem reserved        : 0/node
+Max Mem used        : 0.00  (pg-node233)
+Max Disk Write      : 0.00  (pg-node233)
+Max Disk Read       : 0.00  (pg-node233)
+
+
+Acknowledgements:
+=================
+
+Please see this page for information about acknowledging Peregrine in your publications:
+
+https://wiki.hpc.rug.nl/peregrine/additional_information/scientific_output
+
+################################################################################

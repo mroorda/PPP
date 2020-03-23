@@ -1,0 +1,39 @@
+slurmstepd: error: *** JOB 10283767 ON pg-node049 CANCELLED AT 2020-03-23T10:45:00 ***
+
+
+###############################################################################
+Peregrine Cluster
+Job 10283767 for user 'p275927'
+Finished at: Mon Mar 23 10:45:02 CET 2020
+
+Job details:
+============
+
+Name                : zinc_index
+User                : p275927
+Partition           : short
+Nodes               : pg-node049
+Cores               : 8
+State               : CANCELLED,CANCELLED by 10275927
+Submit              : 2020-03-23T10:44:37
+Start               : 2020-03-23T10:44:45
+End                 : 2020-03-23T10:45:01
+Reserved walltime   : 00:30:00
+Used walltime       : 00:00:16
+Used CPU time       : --
+% User (Computation): 41.18%
+% System (I/O)      : 52.94%
+Mem reserved        : 4G/node
+Max Mem used        : 0.00  (pg-node049)
+Max Disk Write      : 0.00  (pg-node049)
+Max Disk Read       : 0.00  (pg-node049)
+
+
+Acknowledgements:
+=================
+
+Please see this page for information about acknowledging Peregrine in your publications:
+
+https://wiki.hpc.rug.nl/peregrine/additional_information/scientific_output
+
+################################################################################

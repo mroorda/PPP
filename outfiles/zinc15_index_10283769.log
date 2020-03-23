@@ -1,0 +1,38 @@
+
+
+###############################################################################
+Peregrine Cluster
+Job 10283769 for user 'p275927'
+Finished at: Mon Mar 23 10:46:55 CET 2020
+
+Job details:
+============
+
+Name                : zinc_index
+User                : p275927
+Partition           : short
+Nodes               : pg-node049
+Cores               : 8
+State               : COMPLETED
+Submit              : 2020-03-23T10:45:37
+Start               : 2020-03-23T10:45:46
+End                 : 2020-03-23T10:46:55
+Reserved walltime   : 00:30:00
+Used walltime       : 00:01:09
+Used CPU time       : 00:00:55 (efficiency: 10.13%)
+% User (Computation): 44.38%
+% System (I/O)      : 55.62%
+Mem reserved        : 4G/node
+Max Mem used        : 488.00K (pg-node049)
+Max Disk Write      : 0.00  (pg-node049)
+Max Disk Read       : 51.20K (pg-node049)
+
+
+Acknowledgements:
+=================
+
+Please see this page for information about acknowledging Peregrine in your publications:
+
+https://wiki.hpc.rug.nl/peregrine/additional_information/scientific_output
+
+################################################################################

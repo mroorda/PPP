@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --job-name=zinc_gunzip
+#SBATCH --job-name=zinc_unzip
 #SBATCH --partition=vulture
 #SBATCH --time=00:30:00
 #SBATCH --nodes=1

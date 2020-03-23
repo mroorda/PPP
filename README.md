@@ -5,7 +5,8 @@ Repo for the development of a virtual compound screen pipeline using the Peregri
 Some text here
 
 ## Goals
-- large scale virtual screening (docking)
+- large scale virtual screening using ZINC15 compounds that are in stock (docking)
+- docking of SWEETLEAD molecular library (registered compounds)
 - 3D pattern ZINC15 query, docking
 - pharmacophore model generation and query, docking
 - process docked poses with plip
@@ -17,7 +18,7 @@ Some text here
 - Python 3.8.x, 2.7.x
 - Openbabel
 - smina
-- plip
+- plip https://github.com/ssalentin/plip
 - ranger
 - vim
 

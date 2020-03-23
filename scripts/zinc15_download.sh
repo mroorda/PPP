@@ -1,7 +1,7 @@
 #!/bin/bash
 #SBATCH --job-name=zinc_dl
 #SBATCH --partition=regular
-#SBATCH --time=6:00:00
+#SBATCH --time=06:00:00
 #SBATCH --nodes=1
 #SBATCH --cpus-per-task=4
 #SBATCH --mem=2GB

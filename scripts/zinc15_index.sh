@@ -7,17 +7,17 @@
 #SBATCH --mem=4GB
 #SBATCH --output=zinc15_index_%j.log
 
-# this script will split the ZINC15 database
-# file into 1000 evenly-sized sdf files
+# define vars
+DATADIR="/data/p275927/ZINC15/"
+TRANCH="${DATADIR}tranches/*.sdf"
+DATABASE="${DATADIR}database/ZINC15.sdf"
 
-# run code
-TRANCH="/data/p275927/ZINC15/tranches/*.sdf"
-DATABASE="/data/p275927/ZINC15/database/ZINC15.sdf"
-INDFILE="/data/p275927/ZINC15/database/index.txt"
-
-# create index file
-touch $INDFILE
-
-# collect all ZINC IDs into the index file
+# create index file of all ZINC IDs
+touch "${DATADIR}index_molecules.txt"
 grep -E "ZINC[0-9]{12}" $DATABASE >> $INDFILE
 
+# create index file of downloaded tranch sdf files
+touch "${DATADIR}index_sdf_tranches.txt"
+
+# create index file of reformatted sdf files
+touch "${DATADIR}index_sdf_reform.txt"

@@ -1,0 +1,82 @@
+
+gzip: DCAAMO.xab.sdf.gz: unexpected end of file
+
+gzip: DCAARN.xab.sdf.gz: unexpected end of file
+
+gzip: DCAARN.xac.sdf.gz: unexpected end of file
+
+gzip: DCAARN.xad.sdf.gz: unexpected end of file
+
+gzip: DCAARN.xae.sdf.gz: unexpected end of file
+
+gzip: DCAARO.xab.sdf.gz: unexpected end of file
+
+gzip: EEAARN.xab.sdf.gz: unexpected end of file
+
+gzip: EGAARN.xab.sdf.gz: unexpected end of file
+
+gzip: EGBAMP.xaa.sdf.gz: unexpected end of file
+
+gzip: FCAAMN.xaa.sdf.gz: unexpected end of file
+
+gzip: FCAAMO.xaa.sdf.gz: unexpected end of file
+
+gzip: FCAAMP.xaa.sdf.gz: unexpected end of file
+
+gzip: FCAARO.xaa.sdf.gz: unexpected end of file
+
+gzip: FCAARP.xaa.sdf.gz: unexpected end of file
+
+gzip: FCABMN.xaa.sdf.gz: unexpected end of file
+
+gzip: FCABMO.xaa.sdf.gz: unexpected end of file
+
+gzip: FCABMP.xaa.sdf.gz: unexpected end of file
+
+gzip: FCABRN.xaa.sdf.gz: unexpected end of file
+
+gzip: FCABRO.xaa.sdf.gz: unexpected end of file
+
+gzip: FCABRP.xaa.sdf.gz: unexpected end of file
+
+gzip: GGAARN.xab.sdf.gz: unexpected end of file
+
+gzip: GGBAMP.xaa.sdf.gz: unexpected end of file
+
+
+###############################################################################
+Peregrine Cluster
+Job 10277212 for user 'p275927'
+Finished at: Sun Mar 22 19:04:30 UTC 2020
+
+Job details:
+============
+
+Name                : zinc_unzip
+User                : p275927
+Partition           : vulture
+Nodes               : pg-node230
+Cores               : 16
+State               : COMPLETED
+Submit              : 2020-03-22T18:55:23
+Start               : 2020-03-22T18:55:23
+End                 : 2020-03-22T19:04:29
+Reserved walltime   : 00:30:00
+Used walltime       : 00:09:06
+Used CPU time       : 00:05:44 (efficiency:  3.95%)
+% User (Computation): 73.22%
+% System (I/O)      : 26.78%
+Mem reserved        : 4G/node
+Max Mem used        : 968.00K (pg-node230)
+Max Disk Write      : 39.72G (pg-node230)
+Max Disk Read       : 5.80G (pg-node230)
+
+
+Acknowledgements:
+=================
+
+Please see this page for information about acknowledging Peregrine in your publications:
+
+https://wiki.hpc.rug.nl/peregrine/additional_information/scientific_output
+
+################################################################################

@@ -1,0 +1,40 @@
+/var/spool/slurmd/job10279444/slurm_script: line 12: cd: /home/p275927/PPP/plip/contacts/: No such file or directory
+ls: cannot access /home/p275927/PPP/plip/pdbs/: No such file or directory
+
+
+###############################################################################
+Peregrine Cluster
+Job 10279444 for user 'p275927'
+Finished at: Sun Mar 22 23:20:29 CET 2020
+
+Job details:
+============
+
+Name                : plip
+User                : p275927
+Partition           : regular
+Nodes               : pg-node029
+Cores               : 8
+State               : COMPLETED
+Submit              : 2020-03-22T23:19:48
+Start               : 2020-03-22T23:20:28
+End                 : 2020-03-22T23:20:29
+Reserved walltime   : 01:00:00
+Used walltime       : 00:00:01
+Used CPU time       : --
+% User (Computation): 29.17%
+% System (I/O)      : 66.67%
+Mem reserved        : 4G/node
+Max Mem used        : 0.00  (pg-node029)
+Max Disk Write      : 0.00  (pg-node029)
+Max Disk Read       : 0.00  (pg-node029)
+
+
+Acknowledgements:
+=================
+
+Please see this page for information about acknowledging Peregrine in your publications:
+
+https://wiki.hpc.rug.nl/peregrine/additional_information/scientific_output
+
+################################################################################

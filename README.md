@@ -7,7 +7,7 @@ Some text here
 ## Goals
 - large scale virtual screening using ZINC15 compounds that are in stock (docking)
 - docking of SWEETLEAD molecular library (registered compounds)
-- 3D pattern ZINC15 query, docking
+- 3D pattern ZINC15 query using USR-VS, docking
 - pharmacophore model generation and query, docking
 - process docked poses with plip
 - filter docked poses based on specific contacts

@@ -16,6 +16,7 @@ Some text here
 
 - UN*X
 - Python 3.8.x, 2.7.x
+- PyMOL
 - Openbabel
 - smina
 - plip https://github.com/ssalentin/plip
@@ -33,3 +34,5 @@ Some text here
 ### Troubleshooting
 
 Zinc15 database contained 9090020 compounds after unzipping and consolidation. The expected number was 9217262, which means there were 127242 compounds missing. This most likely happened during the unzip step which failed for 44 .sdf.gz files. These files were named *.xab.sdf.gz, compared to the successfully processed *.xaa.sdf.gz. The xa. part is created by naming by the linux function slice. Some of the missing 44 files were re-downloaded (n = 38), the rest were "not found" by the downloader script. It might be due to updates to the database, although when repeating exactly the same query parameters in tranches on the zinc15 website, the result was exactly the same amount of compounds. If the database update is the issue, it might be the organizing into different tranches. Therefore let's not worry about this for the moment, and instead first develop a pipeline which can be used to quickly download and process a fresh database right before docking.
+
+Plip tool outputs broken ligand structures when passed a merged ligand-protein pdb. This was solved by removing CONECT records from the merged pdb file before passing to plip.
